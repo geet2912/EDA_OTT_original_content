@@ -1,5 +1,4 @@
-# EDA_OTT_original_content
-EDA to summarize key characteristics Netflix and Amazon Prime Video Originals content.
+
 # Summary
 The objective of this notebook is to collect, analyze and summarize key characteristics of Netflix and Amazon Prime Video Originals content with the goal of uncovering insights into the scale or production, content strategies, and international expansion efforts.
 
